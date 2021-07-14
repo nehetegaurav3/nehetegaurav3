@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nehetegaurav3
-- 👀 I’m interested in Operating System Design
+- 👀 I’m interested in Native Application Development and Operating System Design.
 - 🌱 I’m currently learning UNIX OS Design, Win32SDK, COM
 - 📫 Reach me - nehetegaurav3@gmail.com
 
